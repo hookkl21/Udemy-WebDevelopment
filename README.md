@@ -14,3 +14,6 @@ PriceTableStarter:
 - Developed this project by following the walk through step by step from the course's video
 - This is particulary focused on creating the price table HTML using Flexbox
 - Learned how to style button, mobile/web layout, and some of basic CSS codes using flexbox
+- Resources:
+ * Reset CSS
+ * Google Font
